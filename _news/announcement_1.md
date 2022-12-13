@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-12-15 12:00:00-0800
 inline: true
 ---
 
-A simple inline announcement.
+:sparkles: [Bean Machine](https://beanmachine.org/) is officially open-sourced! Checkout our [Meta Research blog post](https://research.facebook.com/blog/2021/12/introducing-bean-machine-a-probabilistic-programming-platform-built-on-pytorch/) for details.
